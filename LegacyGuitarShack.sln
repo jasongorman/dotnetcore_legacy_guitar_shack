@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyGuitarShack", "LegacyGuitarShack\LegacyGuitarShack.csproj", "{621ACD76-8E22-4875-AD41-CD121B07162C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyGuitarShack.App", "LegacyGuitarShack.App\LegacyGuitarShack.App.csproj", "{69095C9B-8943-496A-85EA-FC346FE2D244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621ACD76-8E22-4875-AD41-CD121B07162C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621ACD76-8E22-4875-AD41-CD121B07162C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621ACD76-8E22-4875-AD41-CD121B07162C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621ACD76-8E22-4875-AD41-CD121B07162C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69095C9B-8943-496A-85EA-FC346FE2D244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69095C9B-8943-496A-85EA-FC346FE2D244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69095C9B-8943-496A-85EA-FC346FE2D244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69095C9B-8943-496A-85EA-FC346FE2D244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
